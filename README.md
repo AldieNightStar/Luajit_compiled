@@ -7,7 +7,6 @@ For those, who have not C++ Compiler on Windows or don't know how to compile <b>
 * Straighforward hands
 
 # Installation
-* Clonse repo<br> to any DIRECTORY you want
 ```
 $ git clone https://github.com/AldieNightStar/Luajit_compiled.git
 ```
